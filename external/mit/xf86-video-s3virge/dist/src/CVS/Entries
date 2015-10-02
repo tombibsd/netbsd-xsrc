@@ -4,7 +4,7 @@
 /newmmio.h/1.1.1.2/Wed Jun 10 00:48:18 2009/-kk/
 /regs3v.h/1.1.1.2/Wed Jun 10 00:48:18 2009/-kk/
 /s3v.h/1.1.1.3/Mon Jun  3 08:43:14 2013/-kk/
-/s3v_accel.c/1.3/Mon Jun  3 08:50:48 2013/-kk/
+/s3v_accel.c/1.4/Fri Oct  2 16:13:07 2015/-kk/
 /s3v_dac.c/1.1.1.2/Wed Jun 10 00:48:18 2009/-kk/
 /s3v_dga.c/1.3/Mon Jun  3 08:50:48 2013/-kk/
 /s3v_driver.c/1.3/Mon Jun  3 08:50:48 2013/-kk/
