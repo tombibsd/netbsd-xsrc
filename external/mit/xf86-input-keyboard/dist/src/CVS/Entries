@@ -2,8 +2,8 @@
 /Makefile.in/1.1.1.8/Sat Jul 25 01:56:37 2015/-kk/
 /atKeynames.h/1.1.1.2/Sat Jul 25 01:56:37 2015/-kk/
 /at_scancode.c/1.1.1.4/Sat Jul 25 01:56:37 2015/-kk/
-/bsd_KbdMap.c/1.10/Fri Apr  4 12:50:09 2014/-kk/
-/bsd_kbd.c/1.20/Thu Mar 20 10:27:39 2014/-kk/
+/bsd_KbdMap.c/1.11/Sun Nov 29 09:15:14 2015/-kk/
+/bsd_kbd.c/1.21/Sun Nov 29 09:15:14 2015/-kk/
 /bsd_kbd.h/1.4/Fri Jul 26 20:37:00 2013/-kk/
 /hurd_kbd.c/1.1.1.4/Sun Jul 24 00:04:34 2011/-kk/
 /kbd.c/1.6/Wed Jun  5 07:11:16 2013/-kk/
