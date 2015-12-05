@@ -31,7 +31,10 @@
 #include "gcstruct.h"
 #include "cg6_regs.h"
 #include "xf86sbusBus.h"
+#ifdef HAVE_XAA_H
 #include "xaa.h"
+#endif
+#include "exa.h"
 
 /* Various offsets in virtual (ie. mmap()) spaces Linux and Solaris support. */
 #define CG6_FBC_VOFF	0x70000000
@@ -68,6 +71,7 @@ typedef struct {
 	sbusDevicePtr	psdp;
 	Bool		HWCursor;
 	Bool		NoAccel;
+	Bool		useXAA;
 	CloseScreenProcPtr CloseScreen;
 	xf86CursorInfoPtr CursorInfoRec;
 	unsigned int	CursorXY;
@@ -75,11 +79,15 @@ typedef struct {
 	Bool		CursorEnabled;
 	OptionInfoPtr	Options;
 
+#ifdef HAVE_XAA_H
         unsigned char	*buffers[1];
         CARD32  	scanline[1024];
         int             words_in_scanline, scan_x, scan_y, scan_xe;
-        int             clipxa, clipxe;
         XAAInfoRecPtr   pXAA;
+#endif
+        int             clipxa, clipxe;
+	ExaDriverPtr	pExa;
+	int		srcoff, fg;
 } Cg6Rec, *Cg6Ptr;
 
 extern int  Cg6ScreenPrivateIndex;
@@ -103,6 +111,7 @@ extern int  Cg6WindowPrivateIndex;
 extern int cg6RopTable[];
 
 int CG6AccelInit(ScrnInfoPtr);
-Bool Cg6DGAInit(ScreenPtr pScreen);
+Bool Cg6DGAInit(ScreenPtr);
+int CG6EXAInit(ScreenPtr);
 
 #endif /* CG6_H */

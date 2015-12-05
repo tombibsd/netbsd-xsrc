@@ -166,7 +166,7 @@ unClip(Cg6Ptr pCg6)
     pCg6->fbc->clipmaxx = pCg6->clipxe;
 }
 
-static void
+void
 Cg6InitEngine(Cg6Ptr pCg6)
 {
     pCg6->clipxa = 0;
@@ -304,6 +304,8 @@ Cg6SubsequentSolidFillRect
     pCg6->fbc->rrectx = w - 1;
     runDraw(pCg6);
 }
+
+#ifdef HAVE_XAA_H
 
 static void 
 Cg6SetupForCPUToScreenColorExpandFill(ScrnInfoPtr pScrn,
@@ -495,6 +497,8 @@ CG6AccelInit(ScrnInfoPtr pScrn)
      
     return 0;
 }
+
+#endif /* HAVE_XAA_H */
 
 Bool
 Cg6DGAInit(ScreenPtr pScreen)
