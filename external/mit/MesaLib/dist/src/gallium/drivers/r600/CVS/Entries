@@ -18,7 +18,7 @@
 /r600_formats.h/1.1.1.2/Thu Dec 18 06:02:07 2014/-kk/
 /r600_hw_context.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
 /r600_isa.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
-/r600_isa.h/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
+/r600_isa.h/1.2/Mon Mar 14 08:00:53 2016/-kk/
 /r600_llvm.c/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
 /r600_llvm.h/1.1.1.1/Thu Dec 18 06:02:07 2014/-kk/
 /r600_opcodes.h/1.1.1.2/Thu Dec 18 06:02:07 2014/-kk/
