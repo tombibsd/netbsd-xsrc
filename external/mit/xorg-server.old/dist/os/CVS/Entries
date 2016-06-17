@@ -1,0 +1,26 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/Makefile.in/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/WaitFor.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/access.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/auth.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/backtrace.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/connection.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/io.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/log.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/mitauth.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/os.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/oscolor.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/osdep.h/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/osinit.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/rpcauth.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/strcasecmp.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/strcasestr.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/strlcat.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/strlcpy.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/utils.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/xdmauth.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/xdmcp.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/xprintf.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/xsha1.c/1.1.1.1/Thu Jun  9 09:08:00 2016/-kk/
+/xstrans.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+D

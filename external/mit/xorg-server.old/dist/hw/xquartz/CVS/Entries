@@ -1,0 +1,37 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/X11Application.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/X11Application.m/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/X11Controller.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/X11Controller.m/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/applewm.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/applewmExt.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/darwin.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/darwin.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/darwinEvents.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/darwinEvents.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/darwinXinput.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/darwinfb.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/keysym2ucs.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/keysym2ucs.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/pseudoramiX.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/pseudoramiX.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartz.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartz.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartzCocoa.m/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartzCommon.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartzKeyboard.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartzKeyboard.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartzRandR.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartzRandR.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/quartzStartup.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/sanitizedCarbon.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/sanitizedCocoa.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/threadSafety.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/threadSafety.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+D/GL////
+D/bundle////
+D/mach-startup////
+D/man////
+D/pbproxy////
+D/xpr////

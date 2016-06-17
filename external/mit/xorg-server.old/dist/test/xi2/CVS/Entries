@@ -1,0 +1,14 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/Makefile.in/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-common.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-common.h/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-eventconvert.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-xigetclientpointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-xigetselectedevents.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-xiquerydevice.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-xiquerypointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-xiqueryversion.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-xiselectevents.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-xisetclientpointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+/protocol-xiwarppointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016/-kk/
+D

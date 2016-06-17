@@ -1,0 +1,54 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmx-config.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmx.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmx.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmx_glxvisuals.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmx_glxvisuals.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxcb.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxcb.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxclient.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxcmap.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxcmap.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxcursor.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxcursor.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxdpms.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxdpms.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxextension.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxextension.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxfont.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxfont.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxgc.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxgc.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxgcops.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxgcops.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxinit.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxinit.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxinput.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxinput.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxlog.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxlog.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxpict.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxpict.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxpixmap.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxpixmap.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxprop.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxprop.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxscrinit.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxscrinit.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxshadow.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxshadow.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxstat.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxstat.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxsync.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxsync.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxvisual.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxvisual.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxwindow.c/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+/dmxwindow.h/1.1.1.1/Thu Jun  9 09:07:57 2016/-kk/
+D/config////
+D/doc////
+D/examples////
+D/glxProxy////
+D/input////
+D/man////

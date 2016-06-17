@@ -1,0 +1,16 @@
+/VTsw_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/VTsw_usl.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/agp_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/bios_devmem.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/bios_mmap.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/ia64Pci.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/ioperm_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/kmod_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/pm_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/posix_tty.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/sigio.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/sigiostubs.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/vidmem.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/xf86Axp.c/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+/xf86Axp.h/1.1.1.1/Thu Jun  9 09:07:59 2016/-kk/
+D
